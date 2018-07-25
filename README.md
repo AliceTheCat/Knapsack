@@ -10,7 +10,7 @@ Coursework for the lecture "Artificial Intelligence 2"
 
 ## Need more information?
 
-Documentation can be found here -> https://github.com/AliceTheCat/Knapsack/blob/master/doc/report.pdf
+Documentation can be found here -> https://github.com/AliceTheCat/Knapsack/blob/master/doc/Report.pdf
 
 ## Code snippet and results
 
